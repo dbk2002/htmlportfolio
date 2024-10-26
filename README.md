@@ -31,7 +31,7 @@ This portfolio presents my work, including a brief introduction, details about m
 
 ## How to Run
 1. Clone the repository or download the HTML file.
-2. Open the `index.html` file in any web browser.
+2. Open the `htmlportfolio.html` file in any web browser.
 3. You can interact with the navigation links and the contact form.
 
 ## Contact
